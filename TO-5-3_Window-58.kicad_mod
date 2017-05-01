@@ -44,7 +44,7 @@
   (pad 3 thru_hole oval (at 5.08 0) (size 1.05 1.05) (drill 0.55) (layers *.Cu *.Mask))
   (model TO_SOT_Packages_THT.3dshapes/TO-5-3_FDS100.wrl
     (at (xyz 0.1 0 0))
-    (scale (xyz 0.39 0.39 0.39))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz -90 0 0))
   )
 )
