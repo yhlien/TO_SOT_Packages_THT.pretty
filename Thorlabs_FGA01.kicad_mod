@@ -1,10 +1,10 @@
-(module TO-46-3_Lens-15 (layer F.Cu) (tedit 59051D55)
-  (descr "TO-46-3_Lens, Lens")
-  (tags "TO-46-3 Lens 15 mm")
+(module Thorlabs_FGA01 (layer F.Cu) (tedit 59051D55)
+  (descr "InGaAs Photodiode, Thorlabs FGA01")
+  (tags "TO-46-3; Lens; Active Area 0.01 mm2")
   (fp_text reference REF** (at 1.27 -4.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TO-46-3_Lens-15 (at 1.27 4.02) (layer F.Fab)
+  (fp_text value Thorlabs_FGA01 (at 1.27 4.02) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 1.27 0) (end -0.329057 -2.419301) (angle 336.9) (layer F.Fab) (width 0.1))
@@ -27,7 +27,7 @@
   (pad 1 thru_hole oval (at 0 0) (size 1.45 1.05) (drill 0.55) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 1.27 1.27) (size 1.55 1.55) (drill 1.05) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0) (size 1.05 1.05) (drill 0.55) (layers *.Cu *.Mask))
-  (model TO_SOT_Packages_THT.3dshapes/TO-46-3_FDS025.wrl
+  (model TO_SOT_Packages_THT.3dshapes/Thorlabs_FGA01.wrl
     (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 270))
