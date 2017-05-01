@@ -1,6 +1,6 @@
 (module Thorlabs_FDS100 (layer F.Cu) (tedit 59051BFC)
-  (descr "Si Photodiode, Thorlabs FDS100")
-  (tags "TO-5-3; Window; Active Area 3.6×3.6 mm2")
+  (descr "TO-5-3, Window Dia. 58 mm")
+  (tags "TO-5-3 window 58mm")
   (fp_text reference REF** (at 2.54 -5.82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
