@@ -28,8 +28,8 @@
   (pad 2 thru_hole oval (at 1.27 1.27) (size 1.05 1.05) (drill 0.55) (layers *.Cu *.Mask))
   (pad 3 thru_hole oval (at 2.54 0) (size 1.05 1.05) (drill 0.55) (layers *.Cu *.Mask))
   (model TO_SOT_Packages_THT.3dshapes/Hamamatsu_S5973-01.wrl
-    (at (xyz 0 0 -0.2))
+    (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 180))
   )
 )
