@@ -1,6 +1,6 @@
 (module Hamamatsu_S5971 (layer F.Cu) (tedit 59072081)
-  (descr "TO-18-3, Windows Dia. 30 mm")
-  (tags "TO-18-3 window 30mm")
+  (descr "TO-18-3, Windows Dia. 3.0 mm")
+  (tags "TO-18-3 window 3.0mm")
   (fp_text reference REF** (at 1.27 -4.02) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
