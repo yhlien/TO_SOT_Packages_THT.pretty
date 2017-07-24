@@ -1,4 +1,4 @@
-(module Thorlabs_FDGA05 (layer F.Cu) (tedit 59070BF4)
+(module Thorlabs_FDGA05 (layer F.Cu) (tedit 5975369B)
   (descr "TO-46-3, Window Dia. 2.54 mm")
   (tags "TO-46-3 window 2.54mm")
   (fp_text reference REF** (at 1.27 -4.02) (layer F.SilkS)
@@ -29,6 +29,6 @@
   (model TO_SOT_Packages_THT.3dshapes/Thorlabs_FDGA05.wrl
     (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 270 0 180))
+    (rotate (xyz 0 0 180))
   )
 )

@@ -1,4 +1,4 @@
-(module Thorlabs_FDS025 (layer F.Cu) (tedit 59051D55)
+(module Thorlabs_FDS025 (layer F.Cu) (tedit 59753751)
   (descr "TO-46-3, Lens Dia. 1.5 mm")
   (tags "TO-46-3 lens 1.5 mm")
   (fp_text reference REF** (at 1.27 -4.02) (layer F.SilkS)
@@ -30,6 +30,6 @@
   (model TO_SOT_Packages_THT.3dshapes/Thorlabs_FDS025.wrl
     (at (xyz 0.05 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 0 0 270))
+    (rotate (xyz 0 0 -135))
   )
 )

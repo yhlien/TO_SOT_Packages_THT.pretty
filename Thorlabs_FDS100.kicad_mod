@@ -1,4 +1,4 @@
-(module Thorlabs_FDS100 (layer F.Cu) (tedit 59051BFC)
+(module Thorlabs_FDS100 (layer F.Cu) (tedit 59753782)
   (descr "TO-5-3, Window Dia. 5.8 mm")
   (tags "TO-5-3 window 5.8mm")
   (fp_text reference REF** (at 2.54 -5.82) (layer F.SilkS)
@@ -45,6 +45,6 @@
   (model TO_SOT_Packages_THT.3dshapes/Thorlabs_FDS100.wrl
     (at (xyz 0.1 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
-    (rotate (xyz 270 0 0))
+    (rotate (xyz 0 0 -135))
   )
 )
